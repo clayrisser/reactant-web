@@ -1,0 +1,6 @@
+{
+  "extends": ["reactant/typescript"],
+  "env": {
+    "jest": true
+  }
+}
